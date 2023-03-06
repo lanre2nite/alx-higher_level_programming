@@ -1,0 +1,5 @@
+/*this is a readme.md file */
+ALX SOFTWARE ENGINEERING PROGRAM
+COHORT 11
+PROJECT TITLE: 0x00. Python - Hello, World
+DATE: 06/03/2023
